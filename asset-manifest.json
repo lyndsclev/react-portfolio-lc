@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-portfolio-lc/static/css/main.259120b1.css",
+    "main.js": "/react-portfolio-lc/static/js/main.326a6b08.js",
+    "static/js/787.7c191c66.chunk.js": "/react-portfolio-lc/static/js/787.7c191c66.chunk.js",
+    "static/media/css-html-portfolio.png": "/react-portfolio-lc/static/media/css-html-portfolio.a54b5a690b28cd0221c3.png",
+    "static/media/cape-fear-tutoring.png": "/react-portfolio-lc/static/media/cape-fear-tutoring.6926ccca2ed39ce49dda.png",
+    "static/media/friendless-in-seattle.png": "/react-portfolio-lc/static/media/friendless-in-seattle.8753d8049a46ca29b6f3.png",
+    "static/media/weather.png": "/react-portfolio-lc/static/media/weather.0196611c8f3a4634680b.png",
+    "static/media/disco.png": "/react-portfolio-lc/static/media/disco.daf4a53620b7bf3a4011.png",
+    "static/media/avatar-profile-picture.png": "/react-portfolio-lc/static/media/avatar-profile-picture.f9fe87158baa741b580a.png",
+    "static/media/stack-overflow-icon.png": "/react-portfolio-lc/static/media/stack-overflow-icon.0123b8df35f2e7d20bc8.png",
+    "static/media/note-taker.png": "/react-portfolio-lc/static/media/note-taker.d6cd4b04f5b9c6770a84.png",
+    "index.html": "/react-portfolio-lc/index.html",
+    "main.259120b1.css.map": "/react-portfolio-lc/static/css/main.259120b1.css.map",
+    "main.326a6b08.js.map": "/react-portfolio-lc/static/js/main.326a6b08.js.map",
+    "787.7c191c66.chunk.js.map": "/react-portfolio-lc/static/js/787.7c191c66.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.259120b1.css",
+    "static/js/main.326a6b08.js"
+  ]
+}
