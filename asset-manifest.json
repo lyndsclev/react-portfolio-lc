@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-portfolio-lc/static/css/main.259120b1.css",
-    "main.js": "/react-portfolio-lc/static/js/main.aa7b1866.js",
+    "main.css": "/react-portfolio-lc/static/css/main.ffad19f6.css",
+    "main.js": "/react-portfolio-lc/static/js/main.c53df168.js",
     "static/js/787.7c191c66.chunk.js": "/react-portfolio-lc/static/js/787.7c191c66.chunk.js",
     "static/media/css-html-portfolio.png": "/react-portfolio-lc/static/media/css-html-portfolio.a54b5a690b28cd0221c3.png",
     "static/media/cape-fear-tutoring.png": "/react-portfolio-lc/static/media/cape-fear-tutoring.6926ccca2ed39ce49dda.png",
@@ -11,12 +11,12 @@
     "static/media/avatar-profile-picture.png": "/react-portfolio-lc/static/media/avatar-profile-picture.f9fe87158baa741b580a.png",
     "static/media/note-taker.png": "/react-portfolio-lc/static/media/note-taker.d6cd4b04f5b9c6770a84.png",
     "index.html": "/react-portfolio-lc/index.html",
-    "main.259120b1.css.map": "/react-portfolio-lc/static/css/main.259120b1.css.map",
-    "main.aa7b1866.js.map": "/react-portfolio-lc/static/js/main.aa7b1866.js.map",
+    "main.ffad19f6.css.map": "/react-portfolio-lc/static/css/main.ffad19f6.css.map",
+    "main.c53df168.js.map": "/react-portfolio-lc/static/js/main.c53df168.js.map",
     "787.7c191c66.chunk.js.map": "/react-portfolio-lc/static/js/787.7c191c66.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.259120b1.css",
-    "static/js/main.aa7b1866.js"
+    "static/css/main.ffad19f6.css",
+    "static/js/main.c53df168.js"
   ]
 }
